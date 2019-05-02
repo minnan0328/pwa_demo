@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <div>test</div>
+    <div>PWA test</div>
+    <img src="./../static/img/PWA.png" style="width:100%">
     <router-view></router-view>
   </div>
 </template>

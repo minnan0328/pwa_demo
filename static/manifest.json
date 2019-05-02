@@ -1,0 +1,21 @@
+{
+  "name": "PWA Damo with vue.js",
+  "short_name": "PWA Damo",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "./img/Appicon/icon_60pt@3x.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/Appicon/Icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#707477",
+  "theme_color": "#f2f2f2",
+  "display": "standalone",
+  "orientation": "portrait"
+}
